@@ -1,0 +1,10 @@
+https://www.encodeproject.org/files/ENCFF027BPY/@@download/ENCFF027BPY.bed.gz
+https://www.encodeproject.org/files/ENCFF856GNF/@@download/ENCFF856GNF.bed.gz
+https://www.encodeproject.org/files/ENCFF214BTG/@@download/ENCFF214BTG.bed.gz
+https://www.encodeproject.org/files/ENCFF448LQD/@@download/ENCFF448LQD.bed.gz
+https://www.encodeproject.org/files/ENCFF449NOH/@@download/ENCFF449NOH.bed.gz
+https://www.encodeproject.org/files/ENCFF953XXF/@@download/ENCFF953XXF.bed.gz
+https://www.encodeproject.org/files/ENCFF538PLU/@@download/ENCFF538PLU.bed.gz
+https://www.encodeproject.org/files/ENCFF321KEW/@@download/ENCFF321KEW.bed.gz
+https://www.encodeproject.org/files/ENCFF041GGN/@@download/ENCFF041GGN.bed.gz
+https://www.encodeproject.org/files/ENCFF180WXO/@@download/ENCFF180WXO.bed.gz
